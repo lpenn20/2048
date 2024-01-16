@@ -31,7 +31,7 @@ def score(game):
                     output += math.sqrt(line[i]) * 0.2
 
     if game.biggest == game.board[-1][-1]:
-        output += 10000
+        output += 4000
 
     for num in game.biggestNums:
         if num in (game.board[0] + game.board[-1] + game.columns[0] + game.columns[-1]):
