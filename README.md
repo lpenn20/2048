@@ -2,4 +2,3 @@
 - Game_Test.py - Creates test cases to ensure that the scoring function works properly
 - PlayGame.py - Contains all functions to make the solver for 2048, also a playable 2048
 - RandomHelpers.py - Contains random helper functions used in other files, such as finding the maximum key value in a dictionary
-- main.py - Where everything is ran
